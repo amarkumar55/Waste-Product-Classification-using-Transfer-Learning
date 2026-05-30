@@ -120,7 +120,7 @@ dataset/
 
 ```bash
 # Clone the repository
-git clone https://github.com/amarkumar55/waste-product-classification-vgg16.git
+git clone https://github.com/amarskdev/waste-product-classification-vgg16.git
 cd waste-product-classification-vgg16
 
 # Install dependencies
